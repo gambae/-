@@ -130,8 +130,8 @@
 </table>
 
 <br>
-🎇<h2>1등</h2>🎇
-<br>
-![aa](https://user-images.githubusercontent.com/103255941/189025956-b49fd235-ec3c-4030-9097-c910bbd8653d.png)
+<h1>🎇🎇1등🎇🎇</h1>
+
+<img src="https://user-images.githubusercontent.com/103255941/189026151-88d7a673-c7ca-4f9a-b486-f7c85427653b.png">
 
 
