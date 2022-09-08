@@ -22,7 +22,6 @@
   * 대댓글 기능
 * <b>포인트 적립</b>
   * 홈페이지 활동 시 포인트 적립 후 쿠폰 교환
-<br>
 
 # 💪🏻 기술스택
 <table>
@@ -83,6 +82,9 @@
 ![메인](https://user-images.githubusercontent.com/103255941/189015514-71babe55-a1fc-441a-8772-bc3ceb737f20.png)
 * <h2>로그인 및 회원가입 페이지</h2>
 ![image](https://user-images.githubusercontent.com/103255941/189015958-ef83f9a4-ef81-494b-bd87-01f6411c5c49.png)
+* <h2>각 반 로드맵 페이지</h2>
+![image](https://user-images.githubusercontent.com/103255941/189020208-f76b05d0-ade5-4619-bf49-6d0993b7c245.png)
+![image](https://user-images.githubusercontent.com/103255941/189020229-8f701ed9-729e-4718-81c3-a1e321ea3e2d.png)
 * <h2>강의장 연장신청 페이지</h2>
 ![image](https://user-images.githubusercontent.com/103255941/189016076-da9ac66a-9ec6-4c95-88f3-b4b3cf91659d.png)
 * <h2>좌석 예약 페이지</h2>
@@ -94,14 +96,15 @@
 * <h2>포인트 교환 페이지</h2>
 ![image](https://user-images.githubusercontent.com/103255941/189017643-e450e026-8c68-417f-9c40-ea698508223b.png)
 
+
 # 👨‍👩‍👦‍👦 팀원 역할
 <table>
   <tr>
-    <td align="center"><img src="MIRICANVAS_ITEM_COPY_KEY" width="100" height="100"/></td>
-    <td align="center"><img src="https://mb.ntdtv.kr/assets/uploads/2019/01/Screen-Shot-2019-01-08-at-4.31.55-PM-e1546932545978.png" width="100" height="100"/></td>
-    <td align="center"><img src="https://i.pinimg.com/236x/ed/bb/53/edbb53d4f6dd710431c1140551404af9.jpg" width="100" height="100"/></td>
-    <td align="center">![image](https://user-images.githubusercontent.com/103255941/189018336-3b54e9cc-ae46-4335-a46e-437a49f21be4.png)></td>
-    <td align="center">![image](https://user-images.githubusercontent.com/103255941/189018336-3b54e9cc-ae46-4335-a46e-437a49f21be4.png)></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/103255941/189019547-cad15f48-f580-485e-b193-2cb9ae67bd4c.png" width="200" height="170"/</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/103255941/189019459-2b5da8c4-d15b-4691-9fcd-bff5b8970520.png" width="200" height="170"/</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/103255941/189019618-4dadd28d-896b-4017-8ff2-e7fb06bd3439.png" width="200" height="170"/</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/103255941/189018336-3b54e9cc-ae46-4335-a46e-437a49f21be4.png" width="200" height="170"/</td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/103255941/189019379-2376e144-647a-4d9f-b407-29fba6594d0e.png" width="200" height="170"/</td>
   </tr>
   <tr>
     <td align="center"><strong>김경식</strong></td>
@@ -111,22 +114,18 @@
     <td align="center"><strong>윤하은</strong></td>
   </tr>
   <tr>
+    <td align="center"><b>Leader</b></td>
     <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Database</b></td>
     <td align="center"><b>Frontend</b></td>
-    <td align="center"><b>IoT,Frontend</b></td>
-    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Frontend</b></td>
   </tr>
    <tr>
-    <td align="center"><b>DB구축<br>제품 등록 및 구매기능 구현<br>커뮤니티 구현<br>챌린지 구현<br>웹소켓을 이용한 채팅 구현<br>시연 동영상 제작</b></td>
-    <td align="center"><b>UI,UX 디자인<br>mobile web 전체페이지<br></b></td>
-    <td align="center"><b>UI,UX 디자인<br>display, Web 전체페이지<br>시제품 설계<br>시제품 하드웨어 제작<br>시제품-display 통신</b></td>
-    <td align="center"><b>요구사항 정의<br>Q&A 게시판 제작<br>display 상품 관련 기능 구현<br>자체 구매, mobile과 연동<br>카카오페이 api 결제 구현<br>PPT 제작</b></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="https://github.com/eil-you" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/wonjuju" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/HeEwOn96" target='_blank'>github</a></td>
-    <td align="center"><a href="https://github.com/sterham" target='_blank'>github</a></td>
+    <td align="center"><b>프로젝트 총괄<br>로그인 및 회원가입<br>로드맵 페이지<br>기획,최종 발표</b></td>
+    <td align="center"><b>백엔드 총괄<br>연장신청 페이지<br>좌석예약 페이지<br>댓글,대댓글</b></td>
+    <td align="center"><b>데이터베이스 설계<br>화면 설계서<br>유스케이스<br>로드맵 자료조사</b></td>
+    <td align="center"><b>디자인 총괄<br>게시판 페이지<br>좌석예약 페이지<br>영상 제작</b></td>
+    <td align="center"><b>프론트,QA 총괄<br>게시판 페이지<br>포인트 페이지<br>검수 및 오류수정</b></td>
   </tr>
 </table>
 
